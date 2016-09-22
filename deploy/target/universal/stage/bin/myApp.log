@@ -1,0 +1,57 @@
+2016-09-22 13:01:10,195 INFO [hellokernel-akka.actor.default-dispatcher-5] a.e.s.Slf4jLogger [Slf4jLogger.scala:85] Slf4jLogger started
+2016-09-22 13:01:10,204 DEBUG [hellokernel-akka.actor.default-dispatcher-5] a.e.EventStream [Slf4jLogger.scala:82] logger log1-Slf4jLogger started
+2016-09-22 13:01:10,206 DEBUG [hellokernel-akka.actor.default-dispatcher-5] a.e.EventStream [Slf4jLogger.scala:82] Default Loggers started
+2016-09-22 13:01:15,224 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:01:15,224 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:01:20,219 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:01:20,220 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:01:25,220 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:01:25,221 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:01:30,220 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:01:30,221 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:01:35,220 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:01:35,221 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:01:40,219 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:01:40,220 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:01:45,219 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:01:45,220 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:01:50,219 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:01:50,220 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:01:55,218 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:01:55,219 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:00,217 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:00,218 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:05,227 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:05,227 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:10,229 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:10,230 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:15,218 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:15,218 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:20,218 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:20,218 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:25,217 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:25,218 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:30,228 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:30,229 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:35,216 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:35,217 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:40,225 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:40,225 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:45,224 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:45,225 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:50,227 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:50,228 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:02:55,217 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:02:55,218 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:03:00,216 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:03:00,217 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:03:05,225 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:03:05,225 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:03:10,227 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:03:10,227 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:03:15,215 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:03:15,216 INFO [hellokernel-akka.actor.default-dispatcher-5] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:03:20,216 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:03:20,217 INFO [hellokernel-akka.actor.default-dispatcher-6] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody
+2016-09-22 13:03:25,215 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorld [Slf4jLogger.scala:79] Sent response Hello everybody
+2016-09-22 13:03:25,216 INFO [hellokernel-akka.actor.default-dispatcher-3] a.d.HelloWorldCaller [Slf4jLogger.scala:79] received Hello everybody

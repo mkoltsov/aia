@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mPackaging /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/deploy_2.11-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	log4j.xml[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/src/main/resources/log4j.xml[0m
+[0m[[0mdebug[0m] [0m	reference.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/src/main/resources/reference.conf[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/BootHello.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/HelloWorld.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -1,0 +1,31 @@
+[0m[[0minfo[0m] [0mPackaging /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/deploy_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/HelloWorld$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorld$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/HelloWorldCaller$TimerTick.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller$TimerTick.class[0m
+[0m[[0mdebug[0m] [0m	reference.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/reference.conf[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/HelloWorld.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorld.class[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/BootHello$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello$.class[0m
+[0m[[0mdebug[0m] [0m	aia[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/HelloWorldCaller$TimerTick$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller$TimerTick$.class[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/BootHello.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello.class[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/BootHello$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/BootHello$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/HelloWorldCaller$$anonfun$receive$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller$$anonfun$receive$2.class[0m
+[0m[[0mdebug[0m] [0m	aia/deploy/HelloWorldCaller.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller.class[0m
+[0m[[0mdebug[0m] [0m	aia/deploy[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy[0m
+[0m[[0mdebug[0m] [0m	log4j.xml[0m
+[0m[[0mdebug[0m] [0m	  /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/log4j.xml[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -1,0 +1,212 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes
+compile options:
+12 items
+00 -> -deprecation
+01 -> -unchecked
+02 -> -Xlint
+03 -> -Ywarn-unused
+04 -> -Ywarn-dead-code
+05 -> -feature
+06 -> -language:_
+07 -> -deprecation
+08 -> -unchecked
+09 -> -Xfatal-warnings
+10 -> -feature
+11 -> -language:_
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+10 items
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello$$anonfun$1.class
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello$.class
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello$delayedInit$body.class
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello.class
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorld$$anonfun$receive$1.class
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorld.class
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller$$anonfun$receive$2.class
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller$TimerTick$.class
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller$TimerTick.class
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> /Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller.class
+binary dependencies:
+7 items
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> /Users/mkoltsov/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.9.jar
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> /Users/mkoltsov/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> /Users/mkoltsov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> /Users/mkoltsov/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.9.jar
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> /Users/mkoltsov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> /Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+10 items
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> aia.deploy.BootHello
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> aia.deploy.BootHello$
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> aia.deploy.BootHello$$anonfun$1
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> aia.deploy.BootHello$delayedInit$body
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> aia.deploy.HelloWorld
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> aia.deploy.HelloWorld$$anonfun$receive$1
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> aia.deploy.HelloWorldCaller
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> aia.deploy.HelloWorldCaller$$anonfun$receive$2
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> aia.deploy.HelloWorldCaller$TimerTick
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> aia.deploy.HelloWorldCaller$TimerTick$
+used names:
+83 items
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> <init>
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> ActorSystem
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> App
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> BootHello
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> ClassTag
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> HelloWorld
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> HelloWorldCaller
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> Props
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> actor
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> actorOf
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> aia
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> akka
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> apply
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> concurrent
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> config
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> deploy
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> duration
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> getInt
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> materializeClassTag
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> millis
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> package
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> scala
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> settings
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> system
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> timer
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> !
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> &&
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> <init>
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> ==
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> A1
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> AbstractFunction1
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> Actor
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> ActorLogging
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> ActorRef
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> B1
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> FiniteDuration
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> Function1
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> HelloWorld
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> HelloWorldCaller
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> None
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> Predef
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> Product
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> ScalaRunTime
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> Serializable
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> String
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> TimerTick
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> Unit
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> _hashCode
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> _toString
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> actor
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> actorRef2Scala
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> aia
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> akka
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> apply
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> asInstanceOf
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> augmentString
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> concurrent
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> context
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> deploy
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> dispatcher
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> duration
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> ec
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> eq
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> format
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> hello
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> info
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> isInstanceOf
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> log
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> msg
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> package
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> preStart
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> runtime
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> scala
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> schedule
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> scheduler
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> self
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> sender
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> system
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> timer
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> toString
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> typedProductIterator
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> unchecked
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> ||
+product stamps:
+10 items
+/Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello$$anonfun$1.class -> lastModified(1474541524000)
+/Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello$.class -> lastModified(1474541524000)
+/Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello$delayedInit$body.class -> lastModified(1474541524000)
+/Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/BootHello.class -> lastModified(1474541524000)
+/Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorld$$anonfun$receive$1.class -> lastModified(1474541524000)
+/Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorld.class -> lastModified(1474541524000)
+/Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller$$anonfun$receive$2.class -> lastModified(1474541524000)
+/Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller$TimerTick$.class -> lastModified(1474541524000)
+/Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller$TimerTick.class -> lastModified(1474541524000)
+/Users/mkoltsov/dev/learn/aia/deploy/target/scala-2.11/classes/aia/deploy/HelloWorldCaller.class -> lastModified(1474541524000)
+source stamps:
+2 items
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> hash(7fd7a3105b8a07190ffe9e8f1d8ae6fef024f566)
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> hash(9befabc43d595465715b2563b12a451f551cb070)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444173647000)
+/Users/mkoltsov/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.9.jar -> lastModified(1471603942000)
+/Users/mkoltsov/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431139208000)
+/Users/mkoltsov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457496963000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/mkoltsov/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.9.jar -> akka.actor.ActorLogging
+/Users/mkoltsov/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.Config
+/Users/mkoltsov/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.runtime.AbstractPartialFunction
+internal apis:
+2 items
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBYVTubAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPkvB9x0AAZub3RpZnlzcQB+AAz5s8OjdAAFYWN0b3JzcQB+AAy8wYLHdAAEd2FpdHNxAH4ADB/TN/90AA0kYXNJbnN0YW5jZU9mc3EAfgAMYR0M6XQABnN5c3RlbXNxAH4ADNOyPkp0AAZlcXVhbHNzcQB+AAwXzayjdAAMYXNJbnN0YW5jZU9mc3EAfgAMkvryGnQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMGO+Df3QADHN5bmNocm9uaXplZHNxAH4ADKlsJn90AA0kaXNJbnN0YW5jZU9mc3EAfgAMDhnqy3QABmNvbmZpZ3NxAH4ADPlwfgR0AARtYWluc3EAfgAMiS0g+XQACW5vdGlmeUFsbHNxAH4ADKO3oCF0AAxpc0luc3RhbmNlT2ZzcQB+AAypoFBVdAACPT1zcQB+AAzK6OZNdAAFY2xvbmVzcQB+AAzLNQtJdAAIdG9TdHJpbmdzcQB+AAwjYD1xdAAEYXJnc3NxAH4ADJghFvB0AAIhPXNxAH4ADLqcORF0AAhnZXRDbGFzc3NxAH4ADGtGGc90AAlCb290SGVsbG9zcQB+AAwSr3mWdAACbmVzcQB+AAwao1q8dAACZXFzcQB+AAyivrwzdAAFdGltZXJzcQB+AAyRI9HsdAALZGVsYXllZEluaXRzcQB+AAyKBSxEdAACIyNzcQB+AAyUN7nidAAIZmluYWxpemVzcQB+AAxFTk0KdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAUYWlhLmRlcGxveS5Cb290SGVsbG91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBqeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBpAHBzcQB+AG5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AT0wACWluaGVyaXRlZHEAfgBPTAAHcGFyZW50c3EAfgBPeHEAfgByc3EAfgBpAHBzcQB+AG51cQB+AEoAAAAAc3EAfgBpAHBzcQB+AG51cQB+AEoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFBxAH4AWXVxAH4AWgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AH94cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCZc3EAfgBcAHEAfgAldXEAfgBfAAAAAHNxAH4AjHQABFVuaXRxAH4AknVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AH94cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGJ0AAVQbGFpbnEAfgAxc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCNWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBxc3EAfgCMdAAFQXJyYXlxAH4AknVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCMdAAGU3RyaW5nc3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHQABGphdmFzcQB+AJh0AARsYW5ncQB+AJ1zcQB+AGkAcHNxAH4AbnVxAH4AtAAAAARzcQB+AIx0AANBcHBxAH4AknNxAH4AjHQAC0RlbGF5ZWRJbml0cQB+AJJzcQB+AIx0AAZPYmplY3RxAH4AuHNxAH4AjHQAA0FueXEAfgCSdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAADYWlhc3EAfgDMdAAKYWlhLmRlcGxveXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV1GFx+l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L1VzZXJzL21rb2x0c292L2Rldi9sZWFybi9haWEvZGVwbG95L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR/16MQW4oHGQ/+no8diub+8CT1Zg==
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAe9IE+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxzsFpXQABHNlbGZzcQB+AAtmHa0fdAAHY29udGV4dHVxAH4ACQAAADJzcQB+AAsVSBvRdAAGbm90aWZ5c3EAfgALCvofQHQAB3VuYXBwbHlzcQB+AAtP4tlDdAAHUmVjZWl2ZXNxAH4AC1vnSAF0AAR3YWl0c3EAfgALdN94u3QADSRhc0luc3RhbmNlT2ZzcQB+AAvwR7TQdAAHY29tcG9zZXNxAH4AC5S43qV0AAxwcm9kdWN0QXJpdHlzcQB+AAtKIi88dAAGZXF1YWxzc3EAfgALOqae0HQADGFzSW5zdGFuY2VPZnNxAH4AC5K/f+90AAxzeW5jaHJvbml6ZWRzcQB+AAvaq7OWdAANJGlzSW5zdGFuY2VPZnNxAH4ACzAzQQR0AAdhbmRUaGVuc3EAfgALK7ppL3QAB3JlY2VpdmVzcQB+AAvPzOfldAAKcHJlUmVzdGFydHNxAH4ACx93GRR0AA1hcm91bmRSZWNlaXZlc3EAfgALWJLfdnQACVRpbWVyVGlja3NxAH4AC1zVdvR0AAhjYW5FcXVhbHNxAH4AC0DOHix0AAtwb3N0UmVzdGFydHNxAH4AC4nB6pZ0AAhwb3N0U3RvcHNxAH4AC6/C0V90AA1wcm9kdWN0UHJlZml4c3EAfgALfqqKyHQACW5vdGlmeUFsbHNxAH4AC910xu10ABFhcm91bmRQb3N0UmVzdGFydHNxAH4ACwYkljx0AAxpc0luc3RhbmNlT2ZzcQB+AAu83ZBDdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC4NRqKd0AA5hcm91bmRQb3N0U3RvcHNxAH4AC+cgO0V0AAY8aW5pdD5zcQB+AAt1yj3ldAAIcHJlU3RhcnRzcQB+AAt28PDadAAJdW5oYW5kbGVkc3EAfgALyl/zn3QABWFwcGx5c3EAfgALdJY4cHQAAj09c3EAfgAL1RmOpXQABWNsb25lc3EAfgALX1DghXQABGNvcHlzcQB+AAuoStu3dAAGc2VuZGVyc3EAfgALwUueNHQACHRvU3RyaW5nc3EAfgAL6O6QQHQAA21zZ3NxAH4AC1Nvdcd0AAIhPXNxAH4AC3bs77d0AApIZWxsb1dvcmxkc3EAfgALrCYL9XQACGdldENsYXNzc3EAfgALm+foi3QADmNvcHkkZGVmYXVsdCQxc3EAfgALEL4/hXQAEEhlbGxvV29ybGRDYWxsZXJzcQB+AAuFS1zcdAACbmVzcQB+AAutxHbydAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALGMDxm3QAAmVxc3EAfgAL68rxInQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACy5z85Z0AANsb2dzcQB+AAuYeE0qdAACIyNzcQB+AAswcfQGdAAIZmluYWxpemVzcQB+AAvqr7m8dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAt62OIXdAAIaGFzaENvZGVzcQB+AAvgpyV+dAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAVYWlhLmRlcGxveS5IZWxsb1dvcmxkdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biR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
+external apis:
+0 items
+source infos:
+2 items
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/BootHello.scala -> 
+AAAAAAAAAAA=
+/Users/mkoltsov/dev/learn/aia/deploy/src/main/scala/aia/deploy/HelloWorld.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV1GFx+l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9ta29sdHNvdi9kZXYvbGVhcm4vYWlhL2RlcGxveS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
